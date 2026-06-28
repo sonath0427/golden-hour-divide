@@ -1,0 +1,84 @@
+District,Hospital_Name,Hospital_Type,Total_Beds,Latitude,Longitude
+Kalmunai,Akkaraipattu (Elawatuwan),Base Hospital-Type A,18,7.415522,81.82686
+Ampara,Ampara,District General Hospital,50,7.299019,81.68945
+Colombo,Angoda (IDH) - National Institute of Infectious Disease,Other Specialized Hospital,8,6.922551,79.91822
+Anuradhapura,Anuradhapura,Teaching Hospital,20,8.324765,80.41397
+Colombo,Avissawella,District General Hospital,4,6.954329,80.20458
+Badulla,Badulla,Teaching Hospital,21,6.991808,81.05235
+Ratnapura,Balangoda,Base Hospital-Type A,3,6.658562,80.71231
+Galle,Balapitiya,Base Hospital-Type A,4,6.260299,80.0383
+Batticaloa,Batticaloa,Teaching Hospital,65,7.708032,81.69062
+Moneragala,Bibile,Base Hospital-Type B,2,7.163978,81.22521
+Colombo,Castle Street Hospital for Women,Specialized Teaching Hospital,8,6.910641,79.88477
+Puttalam,Chilaw,District General Hospital,6,7.57233,79.79731
+Gampaha,Colombo North Teaching Hospital - Ragama,Teaching Hospital,38,7.028622,79.92425
+Colombo,"Colombo South Teaching Hospital , Kalubovila",Teaching Hospital,23,6.868438,79.87521
+Kurunegala,Dambadeniya,Base Hospital-Type B,4,7.348635,80.13731
+Matale,Dambulla,Base Hospital-Type A,3,7.872027,80.65038
+Colombo,De Soysa Maternity Hospital,Specialized Teaching Hospital,14,6.919981,79.87055
+Kandy,"Dental Institute, Peradeniya",Other Hospital,3,7.269865,80.59383
+Nuwara Eliya,Dickoya,Base Hospital-Type A,3,6.855385,80.60089
+Badulla,Diyatalawa,Base Hospital-Type A,4,6.80555,80.95637
+Galle,Elpitiya,Base Hospital-Type A,4,6.2933,80.16407
+Ratnapura,Embilipitiya,District General Hospital,5,6.326216,80.84187
+Kurunegala,Galgamuwa,Base Hospital-Type B,3,8.001204,80.27724
+Gampaha,Gampaha,District General Hospital,13,7.091586,80.00023
+Kandy,Gampola,Base Hospital-Type A,4,7.155887,80.5643
+Colombo,Gen.Sir John Kotelawala Defence University Hospital,Teaching Hospital,22,6.817658,79.89034
+Galle,German- Sri Lanka Friendship Hospital for Women (Teaching) - Galle,Specialized Teaching Hospital,20,6.067515,80.22342
+Hambantota,Hambantota,District General Hospital,35,6.156719,81.11053
+Colombo,Homagama,Base Hospital-Type A,5,6.847288,79.99201
+Kalutara,Horana,District General Hospital,4,6.71057,80.06616
+Jaffna,Jaffna,Teaching Hospital,69,9.665911,80.01558
+Kalmunai,Kalmunai North,Base Hospital-Type A,20,7.420066,81.82235
+Kalmunai,Kalmunai South /Ashroff M Hospital,Base Hospital-Type A,30,7.420049,81.82237
+Kalutara,Kalutara,Teaching Hospital,5,6.562864,79.98577
+Batticaloa,Kaluwanchikudy,Base Hospital-Type A,5,7.51724,81.78518
+Matara,Kamburugamuwa,District General Hospital,15,5.947977,80.54975
+Matara,Kamburupitiya,Base Hospital-Type A,3,6.095759,80.5645
+Trincomalee,Kanthale,Base Hospital-Type A,3,8.366703,81.00479
+Kegalle,Karawanella,Base Hospital-Type A,3,7.02453,80.26175
+Batticaloa,Kattankudy,Base Hospital-Type A,6,7.685147,81.73908
+Kegalle,Kegalle,District General Hospital,12,7.247767,80.34525
+Kilinochchi,Kilinochchi,District General Hospital,3,9.372729,80.41179
+Kurunegala,Kuliyapitiya,Teaching Hospital,5,7.472043,80.04462
+Kurunegala,Kurunegala,Teaching Hospital,34,7.479122,80.35911
+Colombo,Lady Ridgeway Hospital,Specialized Teaching Hospital,51,6.917828,79.87596
+Badulla,Mahiyanganaya,Base Hospital-Type A,3,7.325479,80.99094
+Mannar,Mannar - (DGH),District General Hospital,4,8.981662,79.90457
+Puttalam,Marawila,Base Hospital-Type B,2,7.393717,79.83265
+Matale,Matale - (DGH),District General Hospital,5,7.461098,80.62471
+Matara,Matara,District General Hospital,16,5.947542,80.54938
+Kegalle,Mawanella,Base Hospital-Type B,4,7.253527,80.44614
+Moneragala,Moneragala,District General Hospital,6,6.891356,81.34258
+Mullaitivu,Mullaitivu,District General Hospital,3,9.226907,80.80049
+Colombo,Mulleriyawa (Colombo East),Base Hospital-Type A,4,6.924893,79.94291
+Colombo,National Dental Teaching Hospital Sri Lanka,Specialized Teaching Hospital,0,6.917307,79.8661
+Galle,National Hospital - Galle,National Hospital,76,6.067073,80.22607
+Colombo,"National Hospital , Sri Lanka",National Hospital,135,6.918743,79.86899
+Gampaha,National Hospital for Respiratory Diseases - (Chest Hospital - Welisara),Other Specialized Hospital,5,7.024886,79.90353
+Kandy,National Hospital- Kandy,National Hospital,65,7.287616,80.63226
+Polonnaruwa,"National Nephrology Specialized Hospital, Polonnaruwa",Other Specialized Hospital,10,7.941161,81.01413
+Kandy,Nawalapitiya,District General Hospital,5,7.053021,80.53517
+Gampaha,Negambo,District General Hospital,25,7.212565,79.84851
+Kurunegala,Nikaweratiya,Base Hospital-Type A,3,7.747476,80.11445
+Nuwara Eliya,Nuwara Eliya - (DGH),District General Hospital,16,6.974103,80.78015
+Kalutara,Panadura,Base Hospital-Type A,4,6.721556,79.90685
+Kandy,Peradeniya,Teaching Hospital,10,7.266279,80.59765
+Jaffna,Point Pedro,Base Hospital-Type A,25,9.805094,80.22471
+Polonnaruwa,Polonnaruwa,District General Hospital,17,7.943001,81.00911
+Puttalam,Puttalam,Base Hospital-Type A,4,8.027902,79.83874
+Ratnapura,Ratnapura,Teaching Hospital,19,6.686825,80.39309
+Nuwara Eliya,Rikillagaskada,Base Hospital-Type B,3,7.145327,80.78257
+Kandy,Sirimavo Bandaranayake Children.Sp.Hospital-Peradeniya,Specialized Teaching Hospital,14,7.267458,80.59702
+Colombo,Sri Jayawardenepura General Hospital,Board Managed Hospital (Tertiary Care),50,6.868713,79.92594
+Hambantota,Tangalle,Base Hospital-Type A,4,6.022588,80.79746
+Kandy,Teldeniya,Base Hospital-Type B,5,7.307131,80.76429
+Anuradhapura,Thambuttegama,Base Hospital-Type A,4,8.154719,80.29332
+Colombo,The National Institute for Nephrology Dialysis & Transplantation,Other Specialized Hospital,5,6.932874,79.87158
+Trincomalee,Trincomalee,District General Hospital,5,8.56486,81.23945
+Galle,Udugama,Base Hospital-Type A,3,6.187782,80.34068
+Vavuniya,Vavuniya - (DGH),District General Hospital,5,8.760589,80.50005
+Hambantota,Walasmulla,Base Hospital-Type B,2,6.146848,80.69822
+Kegalle,Warakapola,Base Hospital-Type B,3,7.225269,80.19609
+Gampaha,Wathupitiwala,Base Hospital-Type A,5,7.123557,80.10971

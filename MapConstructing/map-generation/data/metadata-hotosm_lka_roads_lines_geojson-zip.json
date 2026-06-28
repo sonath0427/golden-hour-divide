@@ -1,0 +1,15 @@
+{
+    "created": "2024-01-23T21:58:00.944657",
+    "description": "GeoJSON",
+    "format": "GeoJSON",
+    "download_url": "https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/LKA/roads/lines/hotosm_lka_roads_lines_geojson.zip",
+    "id": "2ccfa730-970f-4625-a805-2c30748eb9b8",
+    "last_modified": "2026-04-02T04:08:29.033441",
+    "metadata_modified": "2026-04-03T09:30:12.178916",
+    "microdata": false,
+    "dataset_id": "52d9a2c9-a3f8-4647-8a18-33f64e1fb76c",
+    "resource_type": "api",
+    "name": "hotosm_lka_roads_lines_geojson.zip",
+    "mimetype": null,
+    "size": "34.9M"
+}
