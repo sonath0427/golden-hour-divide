@@ -35,6 +35,7 @@ The dataset contains official Sri Lankan healthcare infrastructure, demographic,
 ├── Phase2/
 ├── Phase3/
 ├── Phase4/
+├── FigureGeneration
 └── README.md
 ```
 
